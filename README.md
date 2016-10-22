@@ -1,4 +1,3 @@
 # hello-world
-    Hello!
-Laydies and gentlemen! Good evening!
+begin a new repository!
     
